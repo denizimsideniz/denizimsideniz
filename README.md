@@ -29,7 +29,7 @@
 [cucumber]: https://cucumber.io/
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
 [testng]: https://testng.org/doc/
-[linkedin]: https://www.linkedin.com/in/deniztaskiranqa/
+[linkedin]: https://www.linkedin.com/in/deniztaskiran/
 
 <h3> Tools I Use:</h3>
 
