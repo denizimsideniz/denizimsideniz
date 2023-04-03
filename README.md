@@ -3,7 +3,11 @@
 <h2>I'm Software Test Specialist</h2>
 
 <h3>About me 🍀 </h3> 
-<p></p>
+<p>As a Software Test Engineer during the course of around a year of bootcamp training, I've taken part in a number of manual and automated test projects.
+In my testing procedures, I applied Agile and Scrum methodologies. During this procedure, I used Java, Selenium, TestNG, Cucumber, Git-GitHub, and API to execute my tests.
+To effectively complete software testing processes, I possess the technical expertise and real-world experience required. To develop test plans and test cases, I have experience with a number of testing approaches and tools.
+By placing a significant focus on collaboration, I try to go above and beyond expectations in projects. I might provide suggestions for improving the software's quality along with the other members of the development team.
+I have an open mind and a commitment to constant growth. I'm prepared to contribute to and participate in the development of top-notch software in a skilled software testing environment.</p>
 
 <br>
 <h3> Tech I Use:</h3>
